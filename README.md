@@ -8,7 +8,7 @@ Pequeno algoritmo que gera um número aleatório e requisita a tentativa de acer
 
 ## Autor
 
-- [Pedro Zampieri](https://www.github.com/pedrozampi)
+- [Pedro Zampieri](https://www.linkedin.com/in/pedro-zampieri/)
 
 
 
